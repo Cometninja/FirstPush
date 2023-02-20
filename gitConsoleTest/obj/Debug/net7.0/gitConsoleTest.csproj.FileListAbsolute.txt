@@ -1,0 +1,15 @@
+C:\Users\danie\GitFolder\gitConsoleTest\bin\Debug\net7.0\gitConsoleTest.exe
+C:\Users\danie\GitFolder\gitConsoleTest\bin\Debug\net7.0\gitConsoleTest.deps.json
+C:\Users\danie\GitFolder\gitConsoleTest\bin\Debug\net7.0\gitConsoleTest.runtimeconfig.json
+C:\Users\danie\GitFolder\gitConsoleTest\bin\Debug\net7.0\gitConsoleTest.dll
+C:\Users\danie\GitFolder\gitConsoleTest\bin\Debug\net7.0\gitConsoleTest.pdb
+C:\Users\danie\GitFolder\gitConsoleTest\obj\Debug\net7.0\gitConsoleTest.csproj.AssemblyReference.cache
+C:\Users\danie\GitFolder\gitConsoleTest\obj\Debug\net7.0\gitConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\GitFolder\gitConsoleTest\obj\Debug\net7.0\gitConsoleTest.AssemblyInfoInputs.cache
+C:\Users\danie\GitFolder\gitConsoleTest\obj\Debug\net7.0\gitConsoleTest.AssemblyInfo.cs
+C:\Users\danie\GitFolder\gitConsoleTest\obj\Debug\net7.0\gitConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\danie\GitFolder\gitConsoleTest\obj\Debug\net7.0\gitConsoleTest.dll
+C:\Users\danie\GitFolder\gitConsoleTest\obj\Debug\net7.0\refint\gitConsoleTest.dll
+C:\Users\danie\GitFolder\gitConsoleTest\obj\Debug\net7.0\gitConsoleTest.pdb
+C:\Users\danie\GitFolder\gitConsoleTest\obj\Debug\net7.0\gitConsoleTest.genruntimeconfig.cache
+C:\Users\danie\GitFolder\gitConsoleTest\obj\Debug\net7.0\ref\gitConsoleTest.dll
