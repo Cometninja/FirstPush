@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\danie\\GitFolder\\gitConsoleTest\\gitConsoleTest.csproj": {}
+    "C:\\Users\\danie\\gitFolder\\gitConsoleTest\\gitConsoleTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\danie\\GitFolder\\gitConsoleTest\\gitConsoleTest.csproj": {
+    "C:\\Users\\danie\\gitFolder\\gitConsoleTest\\gitConsoleTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\danie\\GitFolder\\gitConsoleTest\\gitConsoleTest.csproj",
+        "projectUniqueName": "C:\\Users\\danie\\gitFolder\\gitConsoleTest\\gitConsoleTest.csproj",
         "projectName": "gitConsoleTest",
-        "projectPath": "C:\\Users\\danie\\GitFolder\\gitConsoleTest\\gitConsoleTest.csproj",
+        "projectPath": "C:\\Users\\danie\\gitFolder\\gitConsoleTest\\gitConsoleTest.csproj",
         "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\danie\\GitFolder\\gitConsoleTest\\obj\\",
+        "outputPath": "C:\\Users\\danie\\gitFolder\\gitConsoleTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
