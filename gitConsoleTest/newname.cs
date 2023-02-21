@@ -2,12 +2,12 @@ using System;
 
 namespace gitConsoleTest
 {
-    class ParentClass
+    class NewTesting
     {
-        public int TheNumber;
-        public ParentClass(int number)
+        public int TheNumber { get; set; }
+        public NewTesting(int number)
         {
-            TheNumber = number;
+            TheNumber = number * 5;
         }
 
         public int GetNumber()

@@ -6,11 +6,13 @@ namespace gitConsoleTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("i have now added in all the files for the code so far");
+            Console.WriteLine("Still working on adding things into this file");
+            var item = new NewTesting(10);
+            var parentClass = new ParentClass(20);
+            var ServerSideApp = new ServerSideApp();
 
-            var item = new Testing(10);
-
-            Console.WriteLine(item.GetNumber());
+            parentClass.GetNumber();
+            Console.WriteLine($"The first number is {item.GetNumber()} and the second number is {parentClass.GetNumber()}.");
         }
     }
 }
